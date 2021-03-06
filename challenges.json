@@ -1,0 +1,32 @@
+[
+    {
+        "type": "body",
+        "description": "Desafio 001",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description": "Desafio 002",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Desafio 003",
+        "amount": 70
+    },
+    {
+        "type": "eye",
+        "description": "Desafio 004",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Desafio 005",
+        "amount": 100
+    },
+    {
+        "type": "eye",
+        "description": "Desafio 006",
+        "amount": 80
+    }
+]
