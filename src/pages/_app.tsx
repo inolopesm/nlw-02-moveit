@@ -4,7 +4,7 @@ import '../styles/global.css'
 function MyApp({ Component, pageProps }) {
   return (
     <ChallengesContextProvider>
-    <Component {...pageProps} />
+      <Component {...pageProps} />
     </ChallengesContextProvider>
   )
 }
